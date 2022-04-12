@@ -4,8 +4,12 @@
 <div align="center">
 <a href="https://www.instagram.com/neer_j_" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>    <a href="https://wa.me/918113921898" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-%808080.svg?&style=flat-square&logo=Whatsapp&logoColor=white" alt="Whatsapp"></a>
   </div>
+ 
+ <div align="center">
   
-![My card name](https://cardivo.vercel.app/api?name=Neeraj-x0&description=Hi,%20Welcome%20To%20My%20Profile%20❤&image=https://avatars.githubusercontent.com/u/95992247?v=4&backgroundColor=%23ecf0f1&instagram=neer_j_&github=Neeraj-x0&twitter=neeraj_x0&pattern=leaf&colorPattern=%23eaeaea)
+![Metrics](https://metrics.lecoq.io/Neeraj-x0?template=classic&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=Europe%2FIstanbul)  
+
+
 
 </p>
   </p>
@@ -17,5 +21,8 @@
  
 <img src="https://github-readme-stats.vercel.app/api?username=Neeraj-x0&show_icons=true&theme=dark&locale=en" alt="Neeraj-x0" />     <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Neeraj-x0&theme=dark" alt="Neeraj-x0" />
 
+<div align="center">
 
+ [![Run on Repl.it](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)](https://youtu.be/qpDeM1pjbJw)
+ 
  
